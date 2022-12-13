@@ -77,7 +77,7 @@ DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "https://t.me/download_from_search_zone_bot"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Subscribe"
+CAPTION_BUTTON = "subscribe"
 CAPTION_BUTTON_URL = "https://t.me/+F1dCaiWLtbNlNjI1"
 
    # Auto Delete For Bot Sending Files #
